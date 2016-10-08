@@ -11,7 +11,7 @@
 		
 		<!-- Now this variable receives some dynamic text i.e $link_name can be pulled from a DB or can eb avaluated according to a condition (if else etc.) --> 
 		
-		<?php $id = 2; ?> <!-- here sending dynamic data in the query string (what comes after the page name).
+		<?php $id = 5; ?> <!-- here sending dynamic data in the query string (what comes after the page name).
 		
 		<!-- Note: a link in PHP is just an HTML link -->
 		

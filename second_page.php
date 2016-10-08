@@ -6,6 +6,15 @@
 		<title>Second Page</title>
 	</head>
 	<body>
+	
+		<pre>
+			<?php
+			  print_r($_GET); // inspecting the super global variable
+			  echo "<br />";
+			  $id = " The current value of 'id' in the array is: ". $_GET['id']; 
+			  echo $id;
+			?>
+		</pre> 
 
 	</body>
 </html>
