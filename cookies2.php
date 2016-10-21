@@ -12,7 +12,7 @@
 	// 2. setcookie($name, null, $expire);
 	// 3. setcookie($name, $value, time() - 3600);
 
-	// Kevin's recommendation for unsetting:
+	// Recommendation for unsetting:
 	// setcookie($name, null, time() - 3600);
 
 ?>
